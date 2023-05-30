@@ -1,6 +1,7 @@
-## Hallo wie geht es dir?
+---
+hide:
+- navigation
+- toc
+---
 
-* punkt 1
-* punkt 2
-
-ljöhfü0ew
+`NotImplementedError(:-))`
