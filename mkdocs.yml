@@ -6,3 +6,4 @@ theme:
   - navigation.tabs.sticky
   palette:
     primary: black
+  logo: assets/foto_jmb.png
