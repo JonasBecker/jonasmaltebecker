@@ -4,3 +4,5 @@ theme:
   features:
   - navigation.tabs
   - navigation.tabs.sticky
+  palette:
+    primary: black

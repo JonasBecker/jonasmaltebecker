@@ -8,4 +8,4 @@ hide:
 
 Welcome to my new Website! 🙂
 
-[Onboarding für Studierende](Onboarding.md)
+[Onboarding for students](onboarding.md)
