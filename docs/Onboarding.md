@@ -4,6 +4,8 @@ hide:
 - toc
 ---
 
+# 🚢 onboarding
+
 Erste Schritte für Studierende  die Hiwi, Master- oder Abschlussarbeit machen.
 
 1) **Mit LUH-Projekt Account (Zugang per Mail) in Dienste einloggen**

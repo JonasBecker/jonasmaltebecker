@@ -4,6 +4,8 @@ hide:
 - toc
 ---
 
-`NotImplementedError(:-))`
+# cv
+
+`NotImplementedError()`
 
 https://elipapa.github.io/markdown-cv/

@@ -1,5 +1,6 @@
+# datasets
 
-# synthetic drilling dataset
+## synthetic drilling dataset
 
 <iframe
   src="https://huggingface.co/datasets/jonasmaltebecker/synthetic_drilling_dataset/embed/viewer/default/train"
@@ -8,7 +9,7 @@
   height="560px"
 ></iframe>
 
-# Nasa Milling Dataset
+## Nasa Milling Dataset
 
 <iframe
   src="https://huggingface.co/datasets/jonasmaltebecker/nasa_milling/embed/viewer/default/train"
