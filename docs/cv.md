@@ -4,7 +4,7 @@ hide:
 - toc
 ---
 
-# cv
+# 📋 cv
 
 `NotImplementedError()`
 
